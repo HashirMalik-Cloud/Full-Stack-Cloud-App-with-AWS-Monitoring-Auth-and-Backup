@@ -1,4 +1,4 @@
-# Full-Stack-Cloud-App-with-AWS-Monitoring-Auth-and-Backup
+# 🚀Full-Stack-Cloud-App-with-AWS-Monitoring-Auth-and-Backup
 # 🚀 Multi-Tier Full Stack Web App with Cognito, EC2, RDS, CloudFront & WAF
 
 This project demonstrates a **production-grade architecture** where we built and deployed a secure multi-tier full stack web application using *Amazon EC2, RDS, Cognito, CloudFront, and AWS WAF* with monitoring via *CloudWatch*.
@@ -19,7 +19,7 @@ This project demonstrates a **production-grade architecture** where we built and
 
 ## 📷 Screenshots
 
-See the `/screenshots/` folder for:
+See the `/project notes.pdf/` file for:
 - ✅ Pulling code to Git
 - ✅ Form submission
 - ✅ Data saved successfully in Database
